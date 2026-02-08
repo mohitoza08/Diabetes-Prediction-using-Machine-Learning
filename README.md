@@ -34,7 +34,7 @@ To run this project locally, please follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git](https://github.com/mohitoza08/Diabetes-Prediction-using-Machine-Learning
+    git clone https://github.com/mohitoza08/Diabetes-Prediction-using-Machine-Learning
     cd Diabetes-Prediction-using-Machine-Learning
     ```
 
